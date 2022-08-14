@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-        <img src=".github/neon-title.png" alt="Logo Banco Neon">
+        <img src=".github/github-readme-title.png" alt="Logo B7WEB">
     <br>
 </h1>
 
@@ -74,14 +74,21 @@
 ## ℹ️ Como Usar
 
 
-#### ⚙️ Requisitos
+#### ⚙️ Requisitos - (Opcional)
 
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat">&nbsp;
+<p align="left">
+
+[Baixar -> Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+</p>
 
 #### Iniciando o Desenvolvimento
 
 ```sh
+# 1º Opção
 Basta apenas inicializar com o Live Server
+
+# 2º Opção
+Arrastar e jogar o arquivo 'index.html' em uma aba no navegador
 ```
 
 <p align="right"><kbd><b>
