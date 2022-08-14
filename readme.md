@@ -78,7 +78,7 @@
 
 <p align="left">
 
-[Baixar -> Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 </p>
 
 #### Iniciando o Desenvolvimento
