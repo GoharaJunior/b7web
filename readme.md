@@ -3,28 +3,63 @@
         <img src=".github/neon-title.png" alt="Logo Banco Neon">
     <br>
 </h1>
+
+<div align="center">
+<img src=".github/bateria.gif" alt="Demonstração do Projeto" height="350">
+
 <p align="center"> Visualize o projeto:
     Bateria: https://bateria-vanilla-js.netlify.app/
 </p>
+</div>
+
+---
+<div align="center">
+<img src=".github/relogio.gif" alt="Demonstração do Projeto" height="350">
 <p align="center"> Visualize o projeto:
     Relógio Analógico: https://relogio-analogico-vanilla-js.netlify.app/
 
 </p>
+</div>
+
+---
+<div align="center">
+<img src=".github/clima.gif" alt="Demonstração do Projeto" height="350">
 <p align="center"> Visualize o projeto:
     Clima: https://clima-vanilla-js.netlify.app/
 </p>
+</div>
+
+---
+<div align="center">
+<img src=".github/jogo-da-velha.gif" alt="Demonstração do Projeto" height="350">
 <p align="center"> Visualize o projeto:
     Jogo da velha: https://jogo-da-velha-vanilla-js.netlify.app/
 </p>
+</div>
+
+---
+<div align="center">
+<img src=".github/desenhando.gif" alt="Demonstração do Projeto" height="350">
 <p align="center"> Visualize o projeto:
     Desenhando no canvas: https://desenhando-no-canvas-vanilla-js.netlify.app/
 </p>
+</div>
+
+---
+<div align="center">
+<img src=".github/quiz.gif" alt="Demonstração do Projeto" height="350">
 <p align="center"> Visualize o projeto:
     Quiz: https://quiz-vanilla-js.netlify.app/
 </p>
+</div>
+
+---
+<div align="center">
+<img src=".github/arrastar-e-soltar.gif" alt="Demonstração do Projeto" height="350">
 <p align="center"> Visualize o projeto:
     Arrastar e Soltar: https://arrastar-e-soltar-vanilla-js.netlify.app/
 </p>
+</div>
 
 <img src=".github/desktop.gif" alt="Demonstração do Projeto" height="330">&nbsp;&nbsp;
 <img src=".github/mobile.gif" alt="Demonstração do Projeto" height="350">
