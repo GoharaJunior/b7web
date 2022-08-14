@@ -15,16 +15,15 @@
 ---
 <div align="center">
 <img src=".github/relogio.gif" alt="Demonstração do Projeto" height="350">
-<p align="center"> Visualize o projeto:
+<p align="center">
     Relógio Analógico: https://relogio-analogico-vanilla-js.netlify.app/
-
 </p>
 </div>
 
 ---
 <div align="center">
 <img src=".github/clima.gif" alt="Demonstração do Projeto" height="350">
-<p align="center"> Visualize o projeto:
+<p align="center">
     Clima: https://clima-vanilla-js.netlify.app/
 </p>
 </div>
@@ -32,7 +31,7 @@
 ---
 <div align="center">
 <img src=".github/jogo-da-velha.gif" alt="Demonstração do Projeto" height="350">
-<p align="center"> Visualize o projeto:
+<p align="center">
     Jogo da velha: https://jogo-da-velha-vanilla-js.netlify.app/
 </p>
 </div>
@@ -40,7 +39,7 @@
 ---
 <div align="center">
 <img src=".github/desenhando.gif" alt="Demonstração do Projeto" height="350">
-<p align="center"> Visualize o projeto:
+<p align="center">
     Desenhando no canvas: https://desenhando-no-canvas-vanilla-js.netlify.app/
 </p>
 </div>
@@ -48,7 +47,7 @@
 ---
 <div align="center">
 <img src=".github/quiz.gif" alt="Demonstração do Projeto" height="350">
-<p align="center"> Visualize o projeto:
+<p align="center">
     Quiz: https://quiz-vanilla-js.netlify.app/
 </p>
 </div>
@@ -56,7 +55,7 @@
 ---
 <div align="center">
 <img src=".github/arrastar-e-soltar.gif" alt="Demonstração do Projeto" height="350">
-<p align="center"> Visualize o projeto:
+<p align="center">
     Arrastar e Soltar: https://arrastar-e-soltar-vanilla-js.netlify.app/
 </p>
 </div>
